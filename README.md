@@ -23,7 +23,6 @@
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" **alt="Python" width="40" height="40"/>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" title="C#"  alt="C#" width="40" height="40"/>&nbsp
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="Kotlin" **alt="Kotlin" width="40" height="40"/>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="MySQL" **alt="MySQL" width="40" height="40"/>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Firebase-Dark.svg" title="FireBase" **alt="FireBase" width="40" height="40"/>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
